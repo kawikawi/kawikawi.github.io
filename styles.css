@@ -1,0 +1,41 @@
+.meny {
+color: #F5B1B4;
+font-size: 14px;
+font-family: Verdana;
+
+}
+
+.meny {
+  border: 1px solid black;
+  margin: 1px;
+  padding: 1px;
+  width: 50%;
+}
+
+.meny {
+      text-align: center;
+}
+
+
+
+.bloggrubrik {
+color: #F5B1B4;
+font-size: 18px;
+font-family: Verdana;
+}
+
+
+.bild-paak {
+  width: 100%;
+  height: auto;
+}
+
+
+.footer {
+  color: #F5B1B4;
+  font-size: 18px;
+}
+.footerbild {
+  width: 40px;
+  height:auto;
+}
