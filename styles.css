@@ -1,41 +1,79 @@
-.meny {
-color: #F5B1B4;
-font-size: 14px;
-font-family: Verdana;
-
+body {
+  padding: 170px;
 }
 
-.meny {
-  border: 1px solid black;
-  margin: 1px;
-  padding: 1px;
-  width: 50%;
-}
-
-.meny {
-      text-align: center;
-}
+.menybox {
+border-bottom: 2px solid black;
+  margin: 1%;
+  padding: 2%;
+  width: 92%;
+  align-content: center;
+  text-align: center;
 
 
-
-.bloggrubrik {
-color: #F5B1B4;
+color: black;
 font-size: 18px;
 font-family: Verdana;
+font-weight: lighter;
 }
 
+.artikelyta {
+display: flex;
+width: 80%;
+}
+
+.artikelbox {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #F9D1F9;
+flex-direction: column;
+width: 70%;
+height: 70%;
+margin: 1%;
+padding: 2%
+}
+
+.bloggrubrik {
+color: #484848;
+font-size: 16px;
+font-family: Verdana;
+}
+
+.brodtext {
+color: #484848;
+  font-size: 13px;
+  font-family: Arial;
+}
+
+.headerbild {
+  width: 80%;
+  height: auto;
+  align-content: center;
+  justify-content: center;
+  padding: 3%;
+}
 
 .bild-paak {
   width: 100%;
   height: auto;
 }
 
+.bild-Parham {
+  width: 100%;
+  height: auto;
+}
+
+.footeryta {
+  display: flex;
+  width: 100%;
+  align-items: center;
+justify-content: center;
+background-color: #F9D1F9;
+}
 
 .footer {
-  color: #F5B1B4;
-  font-size: 18px;
-}
-.footerbild {
-  width: 40px;
-  height:auto;
+  color: #484848;
+  font-size: 14px;
+  font-family: Verdana;
 }
